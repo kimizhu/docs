@@ -2,19 +2,20 @@
 title: "CorBindToCurrentRuntime Function | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/30/2017"
-ms.prod: ".net-framework-4.6"
+ms.prod: ".net-framework"
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "dotnet-clr"
 ms.tgt_pltfrm: ""
 ms.topic: "reference"
-apiname: 
+api_name: 
   - "CorBindToCurrentRuntime"
-apilocation: 
+api_location: 
   - "mscoree.dll"
   - "mscoreei.dll"
-apitype: "HeaderDef"
+api_type: 
+  - "HeaderDef"
 f1_keywords: 
   - "CorBindToCurrentRuntime"
 dev_langs: 
