@@ -83,8 +83,8 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master-prerelease"
+      "url": "https://github.com/ansyral/templates.docs.msft",
+      "branch": "master"
     },
     {
       "path_to_root": "_themes.pdf",
