@@ -162,6 +162,7 @@
       "_zip/missingapi.yml",
       "_zip/msdnsmallset.yml"
     ],
-    "lruSize": 0
+    "lruSize": 0,
+    "exportRawModel": true
   }
 }
