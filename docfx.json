@@ -4,7 +4,7 @@
     "content": [
       {
         "files": [
-          "api/**/*.yml",
+          "api/**/system.string*.yml",
           "api/**/*.md"
         ],
         "exclude": [
