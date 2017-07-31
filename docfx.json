@@ -4,6 +4,7 @@
     "content": [
       {
         "files": [
+          "api/**/system.string.yml",
           "api/**/system.string*.yml",
           "api/**/*.md"
         ],
