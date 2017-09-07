@@ -122,7 +122,7 @@
       "nuget_feed": "https://www.myget.org/F/op/api/v2",
       "path_to_root": "_dependentPackages/splitToc",
       "target_framework": "net45",
-      "version": "latest-prereleaset"
+      "version": "latest-prerelease"
     }
   ],
   "ECMA2Yaml": {
