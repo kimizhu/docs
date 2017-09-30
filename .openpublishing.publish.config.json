@@ -8,13 +8,11 @@
   "git_repository_url_open_to_public_contributors": "https://github.com/dotnet/docs",
   "branch_target_mapping": {
     "live": [
-      "Publish",
-      "Pdf",
+      "Publish",      
       "Intellisense"
     ],
     "master": [
-      "Publish",
-      "Pdf"
+      "Publish",      
     ]
   },
   "Targets": {
