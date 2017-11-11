@@ -132,5 +132,6 @@
     "OutputYamlFolder": "api",
     "Flatten": true
   },
-  "toc_path_need_to_split": "api/toc.yml"
+  "toc_path_need_to_split": "api/toc.yml",
+  "package_version": "1.41.0-alpha-789-ffc4e38c"
 }
