@@ -26,7 +26,6 @@
       "build_source_folder": ".",
       "build_output_subfolder": "e2eppe-core-docs",
       "locale": "en-us",
-      "enable_xrefmap_share": false,
       "monikers": [
         "netframework-4.5.1",
         "netframework-4.5.2",
