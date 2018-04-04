@@ -33,9 +33,9 @@
   },
   "docsets_to_publish": [
     {
-      "docset_name": "core-docs",
+      "docset_name": "e2eppe-core-docs",
       "build_source_folder": ".",
-      "build_output_subfolder": ".",
+      "build_output_subfolder": "e2eppe-core-docs",
       "locale": "en-us",
       "xref_query_tags": ["/uwp/api"],
       "monikers": [
@@ -74,13 +74,13 @@
     }
   ],
   "notification_subscribers": [],
-  "branches_to_filter": [],
+  "branches_to_filter": ["master-sync-work", "live-sync-work"],
   "skip_source_output_uploading": false,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master"
+      "branch": "master-prerelease"
     },
     {
       "path_to_root": "_themes.pdf",
