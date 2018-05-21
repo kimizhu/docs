@@ -38,7 +38,7 @@
       "build_source_folder": ".",
       "build_output_subfolder": "e2eppe-core-docs",
       "locale": "en-us",
-      "xref_query_tags": ["/dotnet"],
+      "xref_query_tags": ["/dotnet", "uwp/api"],
       "monikers": [
         "netframework-4.5.1",
         "netframework-4.5.2",
@@ -63,7 +63,7 @@
         "xamarinandroid-7.1",
         "xamarinmac-3.0"
       ],
-      "filemap_share_depots": ["VS.e2e-ppe-dotnetapidocs"],
+      "filemap_share_depots": ["MSDN.e2e-ppe-dotnetapidocs"],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
