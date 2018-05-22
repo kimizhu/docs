@@ -37,7 +37,7 @@
       "build_source_folder": ".",
       "build_output_subfolder": "e2eppe-core-docs",
       "locale": "en-us",
-      "xref_query_tags": ["/uwp/api"],
+      "xref_query_tags": ["/dotnet", "/uwp/api"],
       "monikers": [
         "netframework-4.5.1",
         "netframework-4.5.2",
