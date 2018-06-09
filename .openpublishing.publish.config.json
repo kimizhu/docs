@@ -75,6 +75,7 @@
     }
   ],
   "notification_subscribers": [],
+  "xref_endpoint": "https://xref.docs.microsoft.com",
   "branches_to_filter": ["master-sync-work", "live-sync-work"],
   "skip_source_output_uploading": false,
   "dependent_repositories": [
