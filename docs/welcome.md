@@ -9,7 +9,7 @@ ms.prod: dotnet
 ms.devlang: dotnet
 ms.custom: "updateeachrelease"
 ---
-# Welcome to .NET2
+# Welcome to .NET3
 
 See [Get started with .NET Core](core/get-started.md) to learn how to create .NET Core apps.
 
